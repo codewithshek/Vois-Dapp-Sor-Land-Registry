@@ -3,7 +3,7 @@
 A blockchain-based decentralized application (DApp) for transparent and secure land registration, ownership transfer, and verification using Ethereum smart contracts.
 
 # preview
-![image](https://github.com/user-attachments/assets/162d409d-f001-4a59-8bcb-1d65208b2708)
+![image](https://github.com/user-attachments/assets/6c405f97-aad7-44a3-a01a-1560051ebc17)
 
 
 ## 🚀 Features
