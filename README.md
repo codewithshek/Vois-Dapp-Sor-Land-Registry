@@ -4,7 +4,7 @@ A blockchain-based decentralized application (DApp) for transparent and secure l
  
 # preview
 ![image](https://github.com/user-attachments/assets/6c405f97-aad7-44a3-a01a-1560051ebc17)
- 
+  
 ## 🚀 Features
 - **Register Property**: Owners can register land with details like ID, location, and area.
 - **List Properties for Sale**: Owners can mark properties available for purchase.
