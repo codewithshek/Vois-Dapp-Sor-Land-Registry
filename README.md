@@ -1,7 +1,7 @@
 # Smart Contract Land Registry: Automating Property Registration 
 
 A blockchain-based decentralized application (DApp) for transparent and secure land registration, ownership transfer, and verification using Ethereum smart contracts.
-
+ 
 # preview
 ![image](https://github.com/user-attachments/assets/6c405f97-aad7-44a3-a01a-1560051ebc17)
 
